@@ -1,0 +1,221 @@
+2018-11-30 11:07:26,367 myLog [INFO] [Configuration.cc-init-40] Open config file "/home/yuki/Cpp/project/conf/server.conf" success
+2018-11-30 11:07:26,388 myLog [INFO] [Dictionary.cc-initDict-49] Open dictionary file "/home/yuki/Cpp/project/data/dat/en/dict.dat", success
+2018-11-30 11:07:26,396 myLog [INFO] [Dictionary.cc-initIndex-75] Open index file "/home/yuki/Cpp/project/data/dat/en/index.dat", success
+2018-11-30 11:07:26,398 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-11-30 11:07:26,399 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-11-30 11:07:47,827 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:0°ìþ, peer port: 37490
+2018-11-30 11:07:47,827 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 32 bytes
+2018-11-30 11:07:49,625 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 3 bytes
+2018-11-30 11:07:49,625 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 3 bytes
+2018-11-30 11:07:49,625 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 3 bytes
+2018-11-30 11:14:51,004 myLog [INFO] [Configuration.cc-init-40] Open config file "/home/yuki/Cpp/project/conf/server.conf" success
+2018-11-30 11:14:51,006 myLog [INFO] [Dictionary.cc-initDict-49] Open dictionary file "/home/yuki/Cpp/project/data/dat/en/dict.dat", success
+2018-11-30 11:14:51,008 myLog [INFO] [Dictionary.cc-initIndex-75] Open index file "/home/yuki/Cpp/project/data/dat/en/index.dat", success
+2018-11-30 11:14:51,009 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-11-30 11:14:51,009 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-11-30 11:14:57,946 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 37612
+2018-11-30 11:14:57,946 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 32 bytes
+2018-11-30 11:15:11,767 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 3 bytes
+2018-11-30 11:15:11,767 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 3 bytes
+2018-11-30 11:15:11,767 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 3 bytes
+2018-11-30 11:15:22,555 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 12 bytes
+2018-11-30 11:15:22,555 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 12 bytes
+2018-11-30 11:15:22,555 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 12 bytes
+2018-11-30 11:20:48,862 myLog [INFO] [Configuration.cc-init-40] Open config file "/home/yuki/Cpp/project/conf/server.conf" success
+2018-11-30 11:20:48,863 myLog [INFO] [Dictionary.cc-initDict-49] Open dictionary file "/home/yuki/Cpp/project/data/dat/en/dict.dat", success
+2018-11-30 11:20:48,864 myLog [INFO] [Dictionary.cc-initIndex-75] Open index file "/home/yuki/Cpp/project/data/dat/en/index.dat", success
+2018-11-30 11:20:48,865 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-11-30 11:20:48,866 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-11-30 11:20:52,195 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 37650
+2018-11-30 11:20:52,196 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 32 bytes
+2018-11-30 11:20:54,044 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 3 bytes
+2018-11-30 11:20:54,049 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 3 bytes
+2018-11-30 11:20:54,051 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 3 bytes
+2018-11-30 20:55:10,546 myLog [INFO] [Configuration.cc-init-40] Open config file "/home/yuki/Cpp/project/conf/server.conf" success
+2018-11-30 20:55:10,579 myLog [INFO] [Dictionary.cc-initDict-49] Open dictionary file "/home/yuki/Cpp/project/data/dat/en/dict.dat", success
+2018-11-30 20:55:10,587 myLog [INFO] [Dictionary.cc-initIndex-75] Open index file "/home/yuki/Cpp/project/data/dat/en/index.dat", success
+2018-11-30 20:55:10,588 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-11-30 20:55:10,589 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-11-30 20:55:32,753 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 36878
+2018-11-30 20:55:32,754 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 32 bytes
+2018-11-30 20:55:34,204 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 3 bytes
+2018-11-30 20:55:34,205 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 3 bytes
+2018-11-30 20:55:34,205 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 3 bytes
+2018-11-30 20:55:37,953 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 12 bytes
+2018-11-30 20:55:37,953 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 12 bytes
+2018-11-30 20:55:37,953 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 12 bytes
+2018-11-30 21:35:50,440 myLog [INFO] [Configuration.cc-init-40] Open config file "/home/yuki/Cpp/project/conf/server.conf" success
+2018-11-30 21:35:50,489 myLog [INFO] [Dictionary.cc-initDict-49] Open dictionary file "/home/yuki/Cpp/project/data/dat/en/dict.dat", success
+2018-11-30 21:35:50,498 myLog [INFO] [Dictionary.cc-initIndex-75] Open index file "/home/yuki/Cpp/project/data/dat/en/index.dat", success
+2018-11-30 21:35:50,500 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-11-30 21:35:50,500 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-11-30 21:35:56,102 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 37458
+2018-11-30 21:35:56,102 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 32 bytes
+2018-11-30 21:36:07,343 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 3 bytes
+2018-11-30 21:36:07,343 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 3 bytes
+2018-11-30 21:36:07,343 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 3 bytes
+2018-11-30 21:38:15,084 myLog [INFO] [Configuration.cc-init-40] Open config file "/home/yuki/Cpp/project/conf/server.conf" success
+2018-11-30 21:38:15,085 myLog [INFO] [Dictionary.cc-initDict-49] Open dictionary file "/home/yuki/Cpp/project/data/dat/en/dict.dat", success
+2018-11-30 21:38:15,086 myLog [INFO] [Dictionary.cc-initIndex-75] Open index file "/home/yuki/Cpp/project/data/dat/en/index.dat", success
+2018-11-30 21:38:15,088 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-11-30 21:38:15,088 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-11-30 21:38:17,874 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 37518
+2018-11-30 21:38:17,874 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 32 bytes
+2018-11-30 21:38:19,056 myLog [DEBUG] [SocketIO.cc-recvLine-63] RecvPeek 3 bytes
+2018-11-30 21:38:19,057 myLog [DEBUG] [SocketIO.cc-recvAll-42] Receive 3 bytes
+2018-11-30 21:38:19,058 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 3 bytes
+2018-12-01 18:29:11,603 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 18:29:11,652 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 18:29:11,652 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 18:29:19,790 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34464
+2018-12-01 18:29:19,790 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 18:29:22,461 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 2 bytes
+2018-12-01 18:29:22,461 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 2 bytes
+2018-12-01 18:29:46,180 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 18:29:46,182 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 18:29:46,182 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 18:29:51,043 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34466
+2018-12-01 18:29:51,044 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 18:30:14,397 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 6 bytes
+2018-12-01 18:30:14,397 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 6 bytes
+2018-12-01 18:32:01,654 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 18:32:01,655 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 18:32:01,656 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 18:32:04,252 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34518
+2018-12-01 18:33:18,709 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 18:33:18,710 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 18:33:18,710 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 18:33:21,583 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34536
+2018-12-01 19:11:19,533 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:11:19,534 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:11:19,535 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:11:22,490 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34560
+2018-12-01 19:11:55,808 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:11:55,811 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:11:55,811 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:11:58,615 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34580
+2018-12-01 19:11:58,622 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:12:04,867 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 7 bytes
+2018-12-01 19:12:04,867 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 7 bytes
+2018-12-01 19:12:43,889 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:12:43,890 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:12:43,890 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:12:47,858 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34598
+2018-12-01 19:12:47,858 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:12:49,269 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 19:12:49,269 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 19:15:17,024 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:15:17,026 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:15:17,027 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:15:20,332 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34618
+2018-12-01 19:15:20,334 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:15:22,102 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 19:15:22,102 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 19:25:00,118 myLog [INFO] [Dictionary.cc-initDict-43] Open dictionary file "../../data/dat/en/dict.dat", success
+2018-12-01 19:25:00,119 myLog [INFO] [Dictionary.cc-initIndex-69] Open index file "../../data/dat/en/index.dat", success
+2018-12-01 19:25:00,190 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:25:00,191 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:25:00,191 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:25:18,012 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34808
+2018-12-01 19:25:18,013 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:25:19,483 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 19:25:19,483 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 19:25:19,484 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 104 bytes
+2018-12-01 19:26:48,663 myLog [INFO] [Dictionary.cc-initDict-43] Open dictionary file "../../data/dat/en/dict.dat", success
+2018-12-01 19:26:48,664 myLog [INFO] [Dictionary.cc-initIndex-69] Open index file "../../data/dat/en/index.dat", success
+2018-12-01 19:26:48,666 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:26:48,667 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:26:48,668 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:26:52,110 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 34844
+2018-12-01 19:26:52,111 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:26:53,768 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 19:26:53,768 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 19:26:53,769 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 104 bytes
+2018-12-01 19:58:01,190 myLog [INFO] [Dictionary.cc-initDict-43] Open dictionary file "../../data/dat/en/dict.dat", success
+2018-12-01 19:58:01,191 myLog [INFO] [Dictionary.cc-initIndex-69] Open index file "../../data/dat/en/index.dat", success
+2018-12-01 19:58:01,193 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:58:01,194 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:58:01,194 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:58:05,282 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 35472
+2018-12-01 19:58:05,282 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:58:07,749 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 6 bytes
+2018-12-01 19:58:07,749 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 6 bytes
+2018-12-01 19:58:16,322 myLog [INFO] [Dictionary.cc-initDict-43] Open dictionary file "../../data/dat/en/dict.dat", success
+2018-12-01 19:58:16,323 myLog [INFO] [Dictionary.cc-initIndex-69] Open index file "../../data/dat/en/index.dat", success
+2018-12-01 19:58:16,325 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 19:58:16,326 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 19:58:16,327 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 19:58:22,988 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 35474
+2018-12-01 19:58:22,988 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:58:24,300 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 19:58:24,300 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 19:58:24,301 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 39 bytes
+2018-12-01 19:58:49,423 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 35476
+2018-12-01 19:58:49,423 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 19:58:51,152 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 19:58:51,152 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 19:58:51,152 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 63 bytes
+2018-12-01 19:59:02,779 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 19:59:02,779 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 19:59:02,779 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 82 bytes
+2018-12-01 20:00:21,393 myLog [INFO] [Dictionary.cc-initDict-43] Open dictionary file "../../data/dat/en/dict.dat", success
+2018-12-01 20:00:21,394 myLog [INFO] [Dictionary.cc-initIndex-69] Open index file "../../data/dat/en/index.dat", success
+2018-12-01 20:00:21,396 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 20:00:21,397 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 20:00:21,398 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 20:00:23,871 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 35496
+2018-12-01 20:00:23,872 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 20:00:25,139 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 20:00:25,144 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 20:00:25,149 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 21 bytes
+2018-12-01 20:00:30,849 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 20:00:30,849 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 20:00:30,849 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 68 bytes
+2018-12-01 20:00:42,366 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 20:00:42,366 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 20:00:42,366 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 66 bytes
+2018-12-01 20:00:57,607 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 20:00:57,607 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 20:00:57,607 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 17 bytes
+2018-12-01 20:01:05,650 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 4 bytes
+2018-12-01 20:01:05,650 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 4 bytes
+2018-12-01 20:01:05,651 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 50 bytes
+2018-12-01 20:01:20,063 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 4 bytes
+2018-12-01 20:01:20,063 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 4 bytes
+2018-12-01 20:01:20,064 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 34 bytes
+2018-12-01 20:02:01,477 myLog [INFO] [Dictionary.cc-initDict-43] Open dictionary file "../../data/dat/en/dict.dat", success
+2018-12-01 20:02:01,478 myLog [INFO] [Dictionary.cc-initIndex-69] Open index file "../../data/dat/en/index.dat", success
+2018-12-01 20:02:01,480 myLog [INFO] [Configuration.cc-init-24] Open config file "../../conf/server.conf" success
+2018-12-01 20:02:01,481 myLog [INFO] [PthreadPool.cc-start-34] PthreadPool start
+2018-12-01 20:02:01,482 myLog [INFO] [EpollPoller.cc-loop-30] Loop start
+2018-12-01 20:02:03,970 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 35516
+2018-12-01 20:02:03,970 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 20:02:06,051 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 20:02:06,051 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 20:02:06,053 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 21 bytes
+2018-12-01 20:02:08,656 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 4 bytes
+2018-12-01 20:02:08,656 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 4 bytes
+2018-12-01 20:02:08,657 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 50 bytes
+2018-12-01 20:02:20,185 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 4 bytes
+2018-12-01 20:02:20,186 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 4 bytes
+2018-12-01 20:02:20,186 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 50 bytes
+2018-12-01 20:03:11,525 myLog [INFO] [Acceptor.cc-accept-39] Accept success, peer addr:192.168.32.128, peer port: 35518
+2018-12-01 20:03:11,525 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 40 bytes
+2018-12-01 20:03:13,320 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 20:03:13,321 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 20:03:13,321 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 49 bytes
+2018-12-01 20:03:17,413 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 4 bytes
+2018-12-01 20:03:17,413 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 4 bytes
+2018-12-01 20:03:17,414 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 18 bytes
+2018-12-01 20:03:20,702 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 5 bytes
+2018-12-01 20:03:20,702 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 5 bytes
+2018-12-01 20:03:20,702 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 5 bytes
+2018-12-01 20:03:23,219 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 2 bytes
+2018-12-01 20:03:23,219 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 2 bytes
+2018-12-01 20:03:23,220 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 52 bytes
+2018-12-01 20:03:29,870 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 20:03:29,870 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 20:03:29,870 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 18 bytes
+2018-12-01 20:03:31,826 myLog [DEBUG] [SocketIO.cc-recvLine-76] RecvPeek 3 bytes
+2018-12-01 20:03:31,826 myLog [DEBUG] [SocketIO.cc-recvAll-55] Receive 3 bytes
+2018-12-01 20:03:31,827 myLog [DEBUG] [SocketIO.cc-sendAll-24] Send 18 bytes
